@@ -1,22 +1,16 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AdjustLight" preserve="all" />
-    <type fullname="AllIn1VfxToolkit.Demo.Scripts.AllIn1VfxAutoDestroy" preserve="all" />
     <type fullname="AnimationEvents" preserve="all" />
     <type fullname="CanvasInfoFollowView" preserve="all" />
-    <type fullname="CartoonFX.CFXR_Effect" preserve="all" />
-    <type fullname="CFX_AutoDestructShuriken" preserve="all" />
-    <type fullname="CFX_AutoRotate" preserve="all" />
-    <type fullname="CFX_LightFlicker" preserve="all" />
     <type fullname="CharaterManager" preserve="all" />
-    <type fullname="EGA_EffectSound" preserve="all" />
     <type fullname="FadeWhenEnable" preserve="all" />
     <type fullname="FireTarget" preserve="all" />
-    <type fullname="ParticleCollisionInstance" preserve="all" />
+    <type fullname="HideTitleSupportInfo" preserve="all" />
+    <type fullname="LoopAnimationSupport" preserve="all" />
     <type fullname="PopupInfo" preserve="all" />
     <type fullname="SkillJump" preserve="all" />
     <type fullname="TypeClass" preserve="nothing" serialized="true" />
-    <type fullname="CartoonFX.CFXR_Effect/CameraShake" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -55,6 +49,7 @@
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
