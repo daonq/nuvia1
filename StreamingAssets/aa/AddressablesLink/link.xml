@@ -5,6 +5,8 @@
     <type fullname="CanvasInfoFollowView" preserve="all" />
     <type fullname="CharaterManager" preserve="all" />
     <type fullname="FadeWhenEnable" preserve="all" />
+    <type fullname="FireBossLord" preserve="all" />
+    <type fullname="FireHandle" preserve="all" />
     <type fullname="FireTarget" preserve="all" />
     <type fullname="HideTitleSupportInfo" preserve="all" />
     <type fullname="LoopAnimationSupport" preserve="all" />
